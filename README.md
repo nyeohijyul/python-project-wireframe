@@ -1,5 +1,6 @@
 # python-project-wireframe
 [프로젝트 링크](https://github.com/nyeohijyul/AudioFit)
+[배포 링크](https://audio-fit.vercel.app/)
 
 
 [와이어프레임](https://nyeohijyul.github.io/python-project-wireframe/)
